@@ -1,14 +1,13 @@
 <template>
   <div>
     <LandingHeader/>
-    <main>
-      <!-- <slot/> -->
-    </main>
+    <LandingHero/>
     <!-- <Footer/> -->
   </div>
 </template>
 
 <script setup lang="ts">
-import LandingHeader from '@/widgets/Header/ui/LandingHeader.vue'
+import LandingHeader from '@/widgets/LandingHeader/ui/LandingHeader.vue'
+import LandingHero from '@/widgets/LandingHero/ui/LandingHero.vue'
 // import Footer from '@/widgets/Footer/ui/Footer.vue'
 </script>

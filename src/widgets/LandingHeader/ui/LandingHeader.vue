@@ -1,6 +1,6 @@
 <template>
   <header class="mt-9 flex justify-center items-center">
-    <div class="text-xl font-bold">
+    <div>
       <img class="max-w-[188px]" src="@/assets/images/logo.svg" alt="logo">
     </div>
     <nav class="mx-24">
