@@ -1,18 +1,21 @@
 # .
 
-This template should help get you started developing with Vue 3 in Vite.
+Это верстка лендинга по макету из Figma:
+https://www.figma.com/design/qEBUSc10Fy7Slu1vDqEtpg/%D0%AD%D0%BA%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0?node-id=0-1060&t=TugBYXsdP0u9iUbR-11
 
-## Recommended IDE Setup
+Проект реализован с использованием Vue 3, Tailwind CSS и TypeScript.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Техническое задание
+Каждый блок лендинга реализован как отдельный Vue-компонент (без монолитной верстки).
 
-## Type Support for `.vue` Imports in TS
+Моковые данные хранятся в отдельных .ts файлах.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Следует методология FSD (Feature-Sliced Design) для организации кода и папок.
 
-## Customize configuration
+Проект размещён на GitHub (ссылка на репозиторий).
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Проект запускается в режиме разработки и собирается для продакшена.
+
 
 ## Project Setup
 
