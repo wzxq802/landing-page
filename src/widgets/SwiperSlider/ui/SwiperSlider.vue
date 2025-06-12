@@ -34,7 +34,7 @@
               {{ slide.description }}
             </div>
           </div>
-          <div class="w-1/2 flex justify-end">
+          <div class="hidden lg:flex md:flex w-1/2 justify-end">
             <img :src="slide.image" :alt="slide.title" class="max-w-full h-auto object-contain">
           </div>
         </div>
