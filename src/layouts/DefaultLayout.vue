@@ -8,6 +8,7 @@
     <SwiperSlider/>
     <LandingAdvantages/>
     <HowWork/>
+    <TargetAudience/>
   </div>
 </template>
 
@@ -20,4 +21,5 @@ import Concerns from '@/widgets/Concerns/ui/LandingConcerns.vue'
 import SwiperSlider from '@/widgets/SwiperSlider/ui/SwiperSlider.vue'
 import LandingAdvantages from '@/widgets/LandingAdvantages/ui/LandingAdvantages.vue'
 import HowWork from '@/widgets/HowWork/ui/HowWork.vue'
+import TargetAudience from '@/widgets/TargetAudience/ui/TargetAudience.vue'
 </script>
