@@ -9,6 +9,8 @@
     <LandingAdvantages/>
     <HowWork/>
     <TargetAudience/>
+    <StartBuildingNow/>
+    <LandingFooter/>
   </div>
 </template>
 
@@ -22,4 +24,6 @@ import SwiperSlider from '@/widgets/SwiperSlider/ui/SwiperSlider.vue'
 import LandingAdvantages from '@/widgets/LandingAdvantages/ui/LandingAdvantages.vue'
 import HowWork from '@/widgets/HowWork/ui/HowWork.vue'
 import TargetAudience from '@/widgets/TargetAudience/ui/TargetAudience.vue'
+import StartBuildingNow from '@/widgets/StartBuildingNow/ui/StartBuildingNow.vue'
+import LandingFooter from '@/widgets/LandingFooter/ui/LandingFooter.vue'
 </script>

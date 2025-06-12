@@ -1,5 +1,5 @@
 <template>
-  <section class="advantages py-10 md:py-14 my-10 md:my-28">
+  <section class="advantages py-5 md:py-7 my-5 md:my-14">
     <div class="container mx-auto px-4 md:px-6">
       <div class="flex flex-col lg:flex-row gap-8 lg:gap-12 xl:gap-16">
         <div class="lg:order-1 flex justify-center">

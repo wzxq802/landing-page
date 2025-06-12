@@ -1,6 +1,6 @@
 <template>
   <div class="container relative w-full mx-auto overflow-hidden pl-14">
-    <div class="flex justify-between items-center pl-10">
+    <div class="flex justify-between items-center pl-10 pt-10">
       <h2 class="font-bold text-4xl text-[#222]">Решения платформы</h2>
       <div class="flex justify-between items-center my-7 pr-24 space-x-2">
         <div ref="prevElRef" class="bg-white/80 hover:bg-white w-8 h-8 rounded-full shadow flex items-center justify-center">

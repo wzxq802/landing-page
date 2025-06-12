@@ -1,5 +1,5 @@
 <template>
-  <section class="advantages py-10 bg-[linear-gradient(to_right,rgba(0,0,0,0.9),transparent),url('/src/assets/images/target_bg.png')] bg-cover h-[486px] md:py-14 my-10 md:my-28 relative">
+  <section class="advantages bg-[linear-gradient(to_right,rgba(0,0,0,0.9),transparent),url('/src/assets/images/target_bg.png')] bg-cover h-[486px] md:py-14 relative">
     <div class="container mx-auto px-4 md:px-6">
       <div class="flex flex-col px-14 lg:flex-row gap-8 lg:gap-12 xl:gap-16">
         <div class="lg:order-2">
