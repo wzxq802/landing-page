@@ -6,6 +6,8 @@
     <PlatformSolution/>
     <Concerns/>
     <SwiperSlider/>
+    <LandingAdvantages/>
+    <HowWork/>
   </div>
 </template>
 
@@ -16,4 +18,6 @@ import AboutProject from '@/widgets/AboutProject/ui/AboutProject.vue'
 import PlatformSolution from '@/widgets/PlatformSolution/ui/PlatformSolution.vue'
 import Concerns from '@/widgets/Concerns/ui/LandingConcerns.vue'
 import SwiperSlider from '@/widgets/SwiperSlider/ui/SwiperSlider.vue'
+import LandingAdvantages from '@/widgets/LandingAdvantages/ui/LandingAdvantages.vue'
+import HowWork from '@/widgets/HowWork/ui/HowWork.vue'
 </script>
