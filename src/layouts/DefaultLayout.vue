@@ -2,12 +2,12 @@
   <div>
     <LandingHeader/>
     <LandingHero/>
-    <!-- <Footer/> -->
+    <AboutProject/>
   </div>
 </template>
 
 <script setup lang="ts">
 import LandingHeader from '@/widgets/LandingHeader/ui/LandingHeader.vue'
 import LandingHero from '@/widgets/LandingHero/ui/LandingHero.vue'
-// import Footer from '@/widgets/Footer/ui/Footer.vue'
+import AboutProject from '@/widgets/AboutProject/ui/AboutProject.vue'
 </script>
